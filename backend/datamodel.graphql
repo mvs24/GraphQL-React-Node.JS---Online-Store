@@ -28,6 +28,7 @@ type Item {
   user: User!
 }
 
+
 type CartItem {
   id: ID! @unique
   quantity: Int! @default(value: 1)
