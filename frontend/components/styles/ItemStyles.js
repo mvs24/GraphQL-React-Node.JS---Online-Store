@@ -12,6 +12,7 @@ const Item = styled.div`
     height: 400px;
     object-fit: cover;
   }
+
   p {
     font-size: 12px;
     line-height: 2;
