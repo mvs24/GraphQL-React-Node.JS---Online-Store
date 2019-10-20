@@ -47,6 +47,7 @@ const NavStyles = styled.ul`
       left: 50%;
       margin-top: 2rem;
     }
+
     &:hover,
     &:focus {
       outline: none;
