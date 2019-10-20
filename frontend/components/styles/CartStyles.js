@@ -23,6 +23,7 @@ const CartStyles = styled.div`
     margin-bottom: 2rem;
     padding-bottom: 2rem;
   }
+
   footer {
     border-top: 10px double ${props => props.theme.black};
     margin-top: 2rem;
