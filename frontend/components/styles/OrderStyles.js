@@ -20,6 +20,7 @@ const OrderStyles = styled.div`
       }
     }
   }
+
   .order-item {
     border-bottom: 1px solid ${props => props.theme.offWhite};
     display: grid;
