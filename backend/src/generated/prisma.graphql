@@ -21,6 +21,7 @@ type AggregateUser {
   count: Int!
 }
 
+
 type BatchPayload {
   """The number of nodes that have been affected by the Batch operation."""
   count: Long!
