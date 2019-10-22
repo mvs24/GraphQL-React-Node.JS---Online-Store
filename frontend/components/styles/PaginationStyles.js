@@ -24,4 +24,5 @@ const PaginationStyles = styled.div`
   }
 `;
 
+
 export default PaginationStyles;
