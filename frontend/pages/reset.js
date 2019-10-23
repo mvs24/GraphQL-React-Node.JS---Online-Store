@@ -7,4 +7,5 @@ const ResetPage = props => (
   </div>
 );
 
+
 export default ResetPage;
