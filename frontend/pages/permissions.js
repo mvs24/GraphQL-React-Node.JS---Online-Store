@@ -10,3 +10,4 @@ const PermissionsPage = props => (
 );
 
 export default PermissionsPage;
+
