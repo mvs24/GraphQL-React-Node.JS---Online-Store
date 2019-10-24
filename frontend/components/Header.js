@@ -6,6 +6,7 @@ import Nav from './Nav';
 import Cart from './Cart';
 import Search from './Search';
 
+
 Router.onRouteChangeStart = () => {
   NProgress.start();
 };
