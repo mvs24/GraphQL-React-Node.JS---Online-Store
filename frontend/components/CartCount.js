@@ -28,6 +28,7 @@ const AnimationStyles = styled.span`
   }
 `;
 
+
 const Dot = styled.div`
   background: ${props => props.theme.red};
   color: white;
