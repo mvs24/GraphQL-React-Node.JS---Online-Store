@@ -18,6 +18,7 @@ const ErrorStyles = styled.div`
   }
 `;
 
+
 const DisplayError = ({ error }) => {
   if (!error || !error.message) return null;
   if (error.networkError && error.networkError.result && error.networkError.result.errors.length) {
