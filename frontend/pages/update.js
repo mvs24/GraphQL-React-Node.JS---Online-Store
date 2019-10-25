@@ -7,3 +7,4 @@ const Sell = ({ query }) => (
 );
 
 export default Sell;
+
