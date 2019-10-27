@@ -13,6 +13,7 @@ const REMOVE_FROM_CART_MUTATION = gql`
   }
 `;
 
+
 const BigButton = styled.button`
   font-size: 3rem;
   background: none;
