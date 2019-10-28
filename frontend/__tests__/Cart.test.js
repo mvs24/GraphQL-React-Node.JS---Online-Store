@@ -6,6 +6,7 @@ import Cart, { LOCAL_STATE_QUERY } from '../components/Cart';
 import { CURRENT_USER_QUERY } from '../components/User';
 import { fakeUser, fakeCartItem } from '../lib/testUtils';
 
+
 const mocks = [
   {
     request: { query: CURRENT_USER_QUERY },
