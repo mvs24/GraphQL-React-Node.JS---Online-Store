@@ -11,6 +11,7 @@ const fakeItem = {
   largeImage: 'largedog.jpg',
 };
 
+
 describe('<Item/>', () => {
   it('renders and matches the snapshot', () => {
     const wrapper = shallow(<ItemComponent item={fakeItem} />);
