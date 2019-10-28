@@ -6,6 +6,7 @@ import { CURRENT_USER_QUERY } from '../components/User';
 import { MockedProvider } from 'react-apollo/test-utils';
 import { fakeUser, fakeCartItem } from '../lib/testUtils';
 
+
 const notSignedInMocks = [
   {
     request: { query: CURRENT_USER_QUERY },
