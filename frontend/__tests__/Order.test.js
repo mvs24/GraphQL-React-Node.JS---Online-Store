@@ -5,6 +5,7 @@ import { MockedProvider } from 'react-apollo/test-utils';
 import Order, { SINGLE_ORDER_QUERY } from '../components/Order';
 import { fakeOrder } from '../lib/testUtils';
 
+
 const mocks = [
   {
     request: { query: SINGLE_ORDER_QUERY, variables: { id: 'ord123' } },
