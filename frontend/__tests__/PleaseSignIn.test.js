@@ -12,6 +12,7 @@ const notSignedInMocks = [
   },
 ];
 
+
 const signedInMocks = [
   {
     request: { query: CURRENT_USER_QUERY },
