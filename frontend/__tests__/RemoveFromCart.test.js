@@ -9,6 +9,7 @@ import { fakeUser, fakeCartItem } from '../lib/testUtils';
 
 global.alert = console.log;
 
+
 const mocks = [
   {
     request: { query: CURRENT_USER_QUERY },
