@@ -19,6 +19,7 @@ describe('<SingleItem/>', () => {
         },
       },
     ];
+    
     const wrapper = mount(
       <MockedProvider mocks={mocks}>
         <SingleItem id="123" />
