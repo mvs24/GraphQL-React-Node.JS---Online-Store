@@ -13,6 +13,7 @@ function type(wrapper, name, value) {
   });
 }
 
+
 const me = fakeUser();
 const mocks = [
   // signup mock mutation
