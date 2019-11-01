@@ -11,6 +11,7 @@ import { fakeUser, fakeCartItem } from '../lib/testUtils';
 
 Router.router = { push() {} };
 
+
 const mocks = [
   {
     request: { query: CURRENT_USER_QUERY },
