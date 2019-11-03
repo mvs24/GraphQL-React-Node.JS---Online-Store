@@ -10,6 +10,7 @@ Person.prototype.fetchFavFoods = function() {
   });
 };
 
+
 describe('mocking learning', () => {
   it('mocks a reg function', () => {
     const fetchDogs = jest.fn();
