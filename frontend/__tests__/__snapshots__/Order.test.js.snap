@@ -34,7 +34,7 @@ exports[`<Order/> renders the order 1`] = `
   </p>
   <p>
     <span>
-      Order Total
+      Order Total 
     </span>
     <span>
       $400
