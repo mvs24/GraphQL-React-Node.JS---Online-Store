@@ -10,3 +10,4 @@ exports[`<RemoveFromCart/> renders and matches snapshot 1`] = `
   ×
 </button>
 `;
+
