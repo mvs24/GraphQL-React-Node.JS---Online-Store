@@ -35,3 +35,4 @@ exports[`<Nav/> renders the amount of items in the cart 1`] = `
   9
 </div>
 `;
+
